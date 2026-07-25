@@ -1,0 +1,23 @@
+{
+  "mobiles": [
+    {
+      "id": "1",
+      "name": "motog8",
+      "ram": "12gb",
+      "processor": "sd770"
+    },
+    {
+      "id": "A1fsi9g9AXY",
+      "name": "iphone",
+      "ram": "6gb",
+      "processor": "a18"
+    },
+    {
+      "id": "nfVkz5x1e4U",
+      "name": "s26",
+      "ram": "12",
+      "processor": "sdgen8 elite"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
